@@ -17,8 +17,8 @@
   </p>
   <div align="center">
   <div style="display: flex;">
-    <img style="max-width:600px; height:auto;" src="https://github.com/alperenkarate/reacttaurant/blob/master/assets/webview.gif" style="max-width: 300px" alt="Logo">
-       <img style="height:auto; width:200px;" src="https://github.com/alperenkarate/reacttaurant/blob/master/assets/mobil.gif" alt="Logo">
+    <img style="max-width:400px; height:auto;" src="https://github.com/alperenkarate/reacttaurant/blob/master/assets/webview.gif" style="max-width: 300px" alt="Logo">
+       <img style="height:auto; width:160px;" src="https://github.com/alperenkarate/reacttaurant/blob/master/assets/mobil.gif" alt="Logo">
   </div>
 </div>
 </div>
